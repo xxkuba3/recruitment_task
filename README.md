@@ -3,7 +3,7 @@ Task is about syncing Jira tickets from one project to another within one Jira i
 Please create Jira instance (its free) where you can create 2 projects that are going to be synchronized.
 https://www.atlassian.com/try/cloud/signup
 
-# Task:
+# Task
 Search for 5 tickets in one project, and move them to the other project within same Jira instance.
 When syncing tickets please include following fields:
 - summary (title)

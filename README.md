@@ -4,12 +4,12 @@ Please create Jira instance (its free) where you can create 2 projects that are 
 https://www.atlassian.com/try/cloud/signup
 
 # Task
-Implement `JiraSynchronizer.moveTasksToOtherProject` method. Search for 5 tickets in one project, and move them to the other project within same Jira instance.
+1. Fork this repository and send link to it to radek@getint.io after task completion
+2. Implement `JiraSynchronizer.moveTasksToOtherProject` method. Search for 5 tickets in one project, and move them to the other project within same Jira instance.
 When syncing tickets please include following fields:
 - summary (title)
 - description
 - priority
-
 Bonus points for syncing status and comments.
 
 API endpoints exposed by Jira you can find here:

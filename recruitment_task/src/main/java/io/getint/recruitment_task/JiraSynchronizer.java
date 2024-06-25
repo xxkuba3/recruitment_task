@@ -27,7 +27,7 @@ public class JiraSynchronizer {
     private static final String JIRA_URL = "https://jakubgaluszka03.atlassian.net";
     private static final String JIRA_REST_API_URL = "/rest/api/3";
     private static final String USERNAME = "jakub.galuszka03@gmail.com";
-    private static final String API_TOKEN = "ATATT3xFfGF0umlwYEXV7uCGHUOd2nKzvHgQ6Q0LjICJkmB3HFH8-4e5V3AUnEIvBcuKL3jCCwkjdfBMgcw9M0tyP_B7q0WD2HowsHchAy4bhRDRhQl9k3UYLFZ0kvjM1Lf-C5iifdCcOqqYtKfZvjsNnRUiJlLiG_20fYUqvkbv2OLVjXo-g6A=12EB09FD";
+    private static final String API_TOKEN = "ATATT3xFfGF0pYwAjfZDCg3kkXVBYcBVwYhJYC1eeTQzNT5t35d3FxgZrInMjLwqdTio7JSx1uN49XTc1-vFID6WazDzwlaBEHBHbP67v7dcqe6S7ybbPqfFrltx23mhoQFeVCN9l3VRoPpDE8O5lQ7rCPApNhkDn7FQOrozv4v2vc1Q_PdNmXU=0670057C";
     private static final String SOURCE_PROJECT_KEY = "PS";
     private static final String TARGET_PROJECT_KEY = "PT";
     private static final String SEARCH_URL = JIRA_URL + JIRA_REST_API_URL + "/search?jql=project=" + SOURCE_PROJECT_KEY + "&maxResults=5";
